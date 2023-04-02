@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>DevOps Made Easy - Home Page</title>
+<title>Lokeshreddy Training Center - Home Page</title>
 <!-- link href="images/" rel="icon" -->
 </head>
 </head>
